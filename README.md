@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about: My name is Renee and I am currently a student attending Smith College and working on a bachelor's degree in computer science! 
+- 💬 About me: My name is Renee and I am currently a student attending Smith College and working on a bachelor's degree in computer science! 
 - 📫 How to reach me: reneet.owusupoku@gmail.com/rowusupoku@smith.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
